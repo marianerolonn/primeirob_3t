@@ -1,7 +1,8 @@
 # Terceiro Trimestre
 
 ## Identificação
-Mariane Rolon N:23
+Mariane Rolon - n 23
 
-## Conteúdo
-HTML, CSS e javaScript
+## Conteudo 
+
+HTML,CSS e JavaScript
