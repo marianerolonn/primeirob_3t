@@ -1,8 +1,8 @@
-# Terceiro Trimestre
+# Terceiro trimestre 
 
 ## Identificação
-Mariane Rolon - n 23
+Mariane Rolon Nr:23
 
-## Conteudo 
+## Conteudo
 
-HTML,CSS e JavaScript
+HTML CSS e JavaScriptt
