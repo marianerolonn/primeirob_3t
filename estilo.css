@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.calculadora{
+    background: rgb(105, 66, 143);
+    color: rgb(0, 0, 0);
+    width: 190px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.calculadora input{
+    padding: 5px;
+    color: rgb(146, 65, 126);
+    border-radius: 5px;
+}
+
+.calculadora button{
+    padding: 5px;
+    margin-top: 10px;
+    background: deeppink;
+    color: ghostwhite;
+    border-radius: 15px;
+}
+
+#spTotalgeral{
+    background: rgb(17, 91, 114);
+    color: rgb(32, 11, 126);
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
